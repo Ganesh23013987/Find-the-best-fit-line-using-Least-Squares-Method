@@ -33,10 +33,6 @@ Developed by: GANESH D
 RegisterNumber:  212223240035
 */
 
-
-
-
-
 import numpy as np
 import matplotlib.pyplot as plt
 x=np.array(eval(input()))
