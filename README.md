@@ -28,7 +28,11 @@ to fit a straight line using least squares.
 
 Developed by: GANESH D
 RegisterNumber:  212223240035
+```
 
+
+
+```
 
 import numpy as np
 import matplotlib.pyplot as plt
