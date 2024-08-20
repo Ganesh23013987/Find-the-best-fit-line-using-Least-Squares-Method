@@ -1,4 +1,5 @@
 # Implementation of Univariate Linear Regression
+
 ## AIM:
 To implement univariate Linear Regression to fit a straight line using least squares.
 
@@ -18,6 +19,9 @@ To implement univariate Linear Regression to fit a straight line using least squ
 <img width="148" alt="image" src="https://user-images.githubusercontent.com/93026020/192078545-79d70b90-7e9d-4b85-9f8b-9d7548a4c5a4.png">
 5. Use the slope m and the y -intercept to form the equation of the line.
 6. Obtain the straight line equation Y=mX+b and plot the scatterplot.
+
+
+
 
 
 
@@ -54,8 +58,11 @@ plt.show()
 
 
 
+
+
 ## Output:
-<img width="900" alt="univariate regression" src="https://github.com/user-attachments/assets/dee5f7a8-3d29-4daf-a79f-00415f095146">
+<img width="780" alt="univariate regression" src="https://github.com/user-attachments/assets/dee5f7a8-3d29-4daf-a79f-00415f095146">
+
 
 
 
