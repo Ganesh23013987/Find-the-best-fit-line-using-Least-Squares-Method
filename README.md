@@ -55,7 +55,7 @@ plt.show()
 
 
 ## Output:
-<img width="750" alt="univariate regression" src="https://github.com/user-attachments/assets/dee5f7a8-3d29-4daf-a79f-00415f095146">
+<img width="900" alt="univariate regression" src="https://github.com/user-attachments/assets/dee5f7a8-3d29-4daf-a79f-00415f095146">
 
 
 
