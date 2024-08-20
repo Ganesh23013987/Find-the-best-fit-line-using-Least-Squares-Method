@@ -33,22 +33,17 @@ RegisterNumber:  212223240035
 
 import numpy as np
 import matplotlib.pyplot as plt
-
 x=np.array(eval(input()))
 y=np.array(eval(input()))
-
 xmean=np.mean(x)
 ymean=np.mean(y)
-
 n=0
 d=0
 for i in range(len(x)):
   n+=(x[i]-xmean)*(y[i]-ymean)
   d+=(x[i]-xmean)**2
-
 m=n/d
 c=ymean-m*xmean
-
 print(m,c)
 ypred=m*x+c
 print(ypred)
